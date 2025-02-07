@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ARProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\NCA 47\Desktop\Recture\Repository\ARProject\Intermediate\Build\Win64\x64\ARProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\NCA 47\Desktop\Recture\Repository\ARProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ARProject\ARProject.cpp.obj"
+"C:\Users\NCA 47\Desktop\Recture\Repository\ARProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ARProject\PerModuleInline.gen.cpp.obj"
+"C:\Users\NCA 47\Desktop\Recture\Repository\ARProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ARProject\Default.rc2.res"
+/OUT:"C:\Users\NCA 47\Desktop\Recture\Repository\ARProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ARProject\UnrealEditor-ARProject.lib"

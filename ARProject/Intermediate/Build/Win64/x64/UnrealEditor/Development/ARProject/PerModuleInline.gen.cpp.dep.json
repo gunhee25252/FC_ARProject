@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\nca 47\\desktop\\recture\\repository\\arproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\arproject\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\nca 47\\desktop\\recture\\repository\\arproject\\intermediate\\build\\win64\\x64\\arprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\nca 47\\desktop\\recture\\repository\\arproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\arproject\\definitions.arproject.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
